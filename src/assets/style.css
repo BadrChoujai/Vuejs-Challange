@@ -1,0 +1,79 @@
+/*  */
+.Date,
+input {
+  margin-right: 10px;
+}
+h1.sixth {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 40px;
+}
+i {
+  margin-right: 15px;
+  margin-bottom: 2px;
+  display: flex;
+  justify-content: center;
+}
+svg {
+  width: 80px;
+  height: 80px;
+  margin: 20px;
+}
+.load {
+  display: flex;
+  justify-content: center;
+}
+.Date {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.media-content {
+  margin-top: 20px;
+}
+.avatar {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  margin-top: 20px;
+}
+.media-left {
+  border-radius: 50%;
+}
+#card {
+  border-radius: 7px;
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 20px;
+  transition: box-shadow 0.2s;
+}
+#card:hover {
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.div {
+  display: grid;
+  grid-gap: 80px;
+  grid-template-columns: [first] 40px [line2] 50px;
+  /* grid-template-rows:[row1-end] 100px [row1-end] 100px; */
+}
+.stars {
+  text-align: center;
+  width: 100px;
+}
+.issues {
+  width: 100px;
+  text-align: center;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+}
+#warn {
+  color: black;
+  background-color: rgb(254, 255, 180);
+}
+#danger {
+  color: black;
+  background-color: rgb(255, 154, 154);
+}

@@ -1,4 +1,4 @@
-# challenge
+# vue-challange
 
 ## Project setup
 ```

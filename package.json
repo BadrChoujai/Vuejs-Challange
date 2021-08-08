@@ -1,5 +1,5 @@
 {
-  "name": "challenge",
+  "name": "vue-challange",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "css-loader": "^3.6.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "node-sass": "^6.0.1",
+    "vue": "^3.0.0",
+    "vue-router": "^3.5.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
