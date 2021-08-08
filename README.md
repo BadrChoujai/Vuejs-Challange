@@ -1,4 +1,4 @@
-# vue-challange
+# Vuejs-Challange
 
 ## Project setup
 ```
